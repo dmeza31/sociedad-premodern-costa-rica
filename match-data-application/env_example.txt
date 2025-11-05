@@ -1,0 +1,8 @@
+# Database connection URL
+# Format: postgresql://username:password@host:port/database_name
+DATABASE_URL=postgresql://postgres:postgres@localhost:5432/mtg_matches
+
+# Example for different configurations:
+# DATABASE_URL=postgresql://user:password@localhost:5432/mtg_matches
+# DATABASE_URL=postgresql://user:password@db.example.com:5432/mtg_matches
+
